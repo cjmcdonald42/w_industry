@@ -5,6 +5,9 @@ This is a modded Minecraft Server running Forge with Feed-The-Beast extensions f
 The modlist is largely tech-themed with numerous structural and environmental enhancements.
 A slowly-evolving Minecolonies Village at Spawn is planned.
 
+## mods and world files
+.jar files and world files are not stored in this repo for logistical reasons. These are available as a spearate download.
+
 ## Version 1.20.1 - in: Java Edition versions
 1.20 is the first release of Trails & Tales, is a major update to Java Edition released on June 7, 2023, exactly one year after the previous major update, 1.19. Originally announced at Minecraft Live 2022 on October 15, 2022, the name of the update was revealed at Minecraft Monthly on March 2, 2023.
 
