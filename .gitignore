@@ -1,6 +1,7 @@
 # Forge and Minecraft files are stored in the libraries folder.
 # This folder is rebuilt when you run Forge or Minecraft, so there is no need to back it up.
 libraries/
+mods/
 
 # macOS and Windows folder settings
 .DS_Store
