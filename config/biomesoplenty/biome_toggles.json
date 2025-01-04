@@ -10,7 +10,7 @@
   "dead_forest_enabled": false,
   "dryland_enabled": false,
   "dune_beach_enabled": true,
-  "erupting_inferno_enabled": false,
+  "erupting_inferno_enabled": true,
   "field_enabled": true,
   "fir_clearing_enabled": true,
   "floodplain_enabled": true,
@@ -61,8 +61,8 @@
   "volcano_enabled": false,
   "wasteland_enabled": false,
   "wasteland_steppe_enabled": false,
-  "wetland_enabled": false,
+  "wetland_enabled": true,
   "wintry_origin_valley_enabled": true,
-  "withered_abyss_enabled": false,
+  "withered_abyss_enabled": true,
   "woodland_enabled": true
 }
