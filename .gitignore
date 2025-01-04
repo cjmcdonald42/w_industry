@@ -1,4 +1,3 @@
-.venv/
-.idea/
+libraries/
 .DS_Store
 desktop.ini
