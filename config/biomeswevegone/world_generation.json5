@@ -1,7 +1,7 @@
 {
 	// Which biomes are enabled, if disabled the biome will default to its vanilla counterpart for the given region
 	"enabled_biomes": {
-		"biomeswevegone:shattered_glacier": true,
+		"biomeswevegone:shattered_glacier": false,
 		"biomeswevegone:atacama_outback": true,
 		"biomeswevegone:forgotten_forest": true,
 		"biomeswevegone:cika_woods": true,
