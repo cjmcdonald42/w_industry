@@ -3,4 +3,4 @@
 
 # This is the most ambitious multiplayer server Chuck has created yet,
 # so we're going to start with a 9G maximum.
--Xmx10G
+-Xmx12G
